@@ -1,0 +1,37 @@
+{
+  "name": "vscode-extension-pack-by-tayse-rosa",
+  "displayName": "vscode-extension-pack-by-tayse-rosa",
+  "description": "A VSCode extension pack by Tayse Rosa",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "nguyenhoanglam.beautiful-dracula",
+    "dzhavat.bracket-pair-toggler",
+    "mikestead.dotenv"
+  ],
+  "publisher": "tayserosa",
+  "icon":"logo.png",
+  "galleryBanner": {
+    "color": "#030518",
+    "theme": "dark"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "styled-components",
+    "graphql",
+    "apollo"
+  ],
+  "repository": {
+    "url": "https://github.com/TayseRosa/vscode-extension-pack-by-tayse-rosa.git"
+  },
+  "homepage": "https://github.com/TayseRosa/vscode-extension-pack-by-tayse-rosa.git",
+  "bugs": {
+    "url": "https://github.com/TayseRosa/vscode-extension-pack-by-tayse-rosa.git/issues"
+  }
+}
