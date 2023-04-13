@@ -23,9 +23,7 @@
   "keywords": [
     "react",
     "typescript",
-    "styled-components",
-    "graphql",
-    "apollo"
+    "styled-components"
   ],
   "repository": {
     "url": "https://github.com/TayseRosa/vscode-extension-pack-by-tayse-rosa.git"
